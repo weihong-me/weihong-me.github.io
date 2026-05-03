@@ -1,0 +1,4 @@
+baseURL = 'https://wei-hong.me/'
+languageCode = 'zh-cn'
+title = '魏洪'
+theme = 'paper'
