@@ -2,3 +2,9 @@ baseURL = 'https://wei-hong.me/'
 languageCode = 'zh-cn'
 title = '魏洪'
 theme = 'paper'
+copyright = "©2026 魏洪 | 落子无悔，勇往直前"
+[menu]
+  [[menu.main]]
+    name = "关于"
+    pageRef = "/about"
+    weight = 10
