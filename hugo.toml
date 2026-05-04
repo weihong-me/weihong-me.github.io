@@ -5,6 +5,27 @@ theme = 'paper'
 copyright = "©2026 魏洪 | 落子无悔，勇往直前"
 [menu]
   [[menu.main]]
+    name = "成长"
+    pageRef = "/growth"
+    weight = 10
+
+  [[menu.main]]
+    name = "创造"
+    pageRef = "/building"
+    weight = 20
+
+  [[menu.main]]
+    name = "探索"
+    pageRef = "/exploring"
+    weight = 30
+
+  [[menu.main]]
     name = "关于"
     pageRef = "/about"
-    weight = 10
+    weight = 100
+
+[taxonomies]
+  category = "categories"
+
+[permalinks]
+  categories = "/:slug/"
