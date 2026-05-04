@@ -1,8 +1,8 @@
----
-title: "我和我的YU7：从期待到从容"
-date: 2026-05-04
-categories: ["exploring"]
----
++++
+title = '我和我的YU7：从期待到从容'
+date = 2026-05-03T19:55:37+08:00
+categories = ['exploring']
++++
 
 我抢到YU7的准确锁单时间，是2分55秒。
 
